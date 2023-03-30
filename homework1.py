@@ -2,8 +2,8 @@
 # Spring 2023
 # Homework 1
 
-# YOUR CANVAS NAME HERE
-# YOUR GITHUB USER NAME HERE
+# Lisa Li
+# liyilisayil6
 
 # Due date: Sunday April 2nd before midnight
 # Write your answers in the space between the questions, and commit/push only this file to your repo.
@@ -15,7 +15,9 @@
 # Question 1: Using a for loop, write code that takes in any list of objects, then prints out:
 # "The value at position __ is __" for every element in the loop, where the first blank is the
 # index location and the second blank the object at that index location.
-
+List1 = ["a","b","c","d","e"]
+for i in List1:
+    print(i)
 
 # Question 2: A palindrome is a word or phrase that is the same both forwards and backwards. Write
 # code that takes a variable of any string, then tests to see whether it qualifies as a palindrome.
